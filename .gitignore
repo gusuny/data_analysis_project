@@ -222,3 +222,8 @@ __marimo__/
 __pycache__/
 .venv/
 .DS_Store
+
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
