@@ -1,0 +1,8 @@
+# Python libraries used: 
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+jupyter
+ipykernel
