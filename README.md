@@ -1,11 +1,8 @@
 # data_analysis_project
-repository for our project in cognitive data analysis
-the raw data for this project can be downloaded here:
-https://www.kaggle.com/datasets/canaria/5-gamers?resource=download
+Repository for our project in cognitive data analysis, focusing on the Stroop and Flanker tasks.
 
 ## Data
-Datasetet är för stort för GitHub och ligger därför inte i repot.
 
-1. Ladda ner datan från https://www.kaggle.com/datasets/canaria/5-gamers (Download -> zip)
-2. Packa upp zip-filen
-3. Lägg alla CSV-filer direkt i mappen `data/raw/`
+The dataset used in this project is available from [OSF](https://osf.io/2gxhy/overview?view_only=9906158ffeb6434cb7aeb31f0bc94542).
+
+The project uses data from the Stroop and Flanker tasks.
